@@ -1,0 +1,12 @@
+- notification 
+https://gist.github.com/vongomben/d547459ad017363ea388e7a5c6fcdb72
+- Change  
+https://gist.github.com/vongomben/ad94abca22bf383d5a2240cffb8caba8
+. Impostazione soglia da utente usando le funzioni (Savarese!) 
+https://github.com/FilippoSavarese/FlowIoT
+Grafici e Soglie (Senza Funzioni) 
+https://gist.github.com/vongomben/7100fbb627ee1816ba1194468e6a0785
+più dati su un grafico (passati come rest APIs) 
+https://gist.github.com/vongomben/713a01e08ecd106f591763d8ed62b656
+Se volete debuggare l'MQTT potete usare questo generatore di Bela Rosina e Monte dei Cappuccini 
+https://gist.github.com/vongomben/95e53b797a81c31a338fa19d6cf87d05
